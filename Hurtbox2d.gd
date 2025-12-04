@@ -1,4 +1,4 @@
-@icon("res://addons/Toxic-Library/toxic_hit_hurt_boxes/Hurtbox.svg")
+@icon("res://addons/Hit-Hurt-Boxes/icons/Hurtbox.svg")
 
 extends Area2D
 class_name Hurtbox2d
@@ -78,9 +78,9 @@ func _set_health(new_value: float) -> void:
 	health = new_value
 	health_check()
 
-####################################
+###################################
 # BODY
-####################################
+###################################
 
 func _ready() -> void:
 	if current_health != -INF:

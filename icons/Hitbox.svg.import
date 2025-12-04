@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bhg3wbgojlwqs"
-path="res://.godot/imported/Hurtbox.svg-3104a6ff2eb40a9019ccbacd1f3b0763.ctex"
+uid="uid://i6ghjst8yth3"
+path="res://.godot/imported/Hitbox.svg-ce16640f0915f687408dc344037ab9a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/Hit-Hurt-Boxes/Hurtbox.svg"
-dest_files=["res://.godot/imported/Hurtbox.svg-3104a6ff2eb40a9019ccbacd1f3b0763.ctex"]
+source_file="res://addons/Hit-Hurt-Boxes/icons/Hitbox.svg"
+dest_files=["res://.godot/imported/Hitbox.svg-ce16640f0915f687408dc344037ab9a2.ctex"]
 
 [params]
 

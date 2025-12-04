@@ -1,4 +1,4 @@
-@icon("res://addons/Toxic-Library/toxic_hit_hurt_boxes/Hitbox.svg")
+@icon("res://addons/Hit-Hurt-Boxes/icons/Hitbox.svg")
 
 extends Area2D
 class_name Hitbox2d
